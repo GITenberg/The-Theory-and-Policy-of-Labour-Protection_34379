@@ -1,0 +1,39 @@
+_repo: The-Theory-and-Policy-of-Labour-Protection_34379
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Germany. Laws, statutes, etc.
+    gutenberg_agent_id: '42627'
+    url: http://www.gutenberg.org/2009/agents/42627
+  - agent_name: Schäffle, A. (Albert)
+    aliases:
+    - Schaffle, A. (Albert)
+    - Schäffle, Albert
+    - Schäffle, Albert Eberhard Friedrich
+    birthdate: 1831
+    deathdate: 1903
+    gutenberg_agent_id: '36984'
+    url: http://www.gutenberg.org/2009/agents/36984
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Sch%C3%A4ffle
+  editor:
+    agent_name: Morant, A. C.
+    gutenberg_agent_id: '36985'
+    url: http://www.gutenberg.org/2009/agents/36985
+description: ''
+gutenberg_issued: '2010-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34379'
+  lccn: 06014580
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Labor laws and legislation -- Germany'
+- !lcc 'HD'
+title: The Theory and Policy of Labour Protection
+url: http://www.gutenberg.org/ebooks/34379
